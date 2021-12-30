@@ -1,0 +1,6 @@
+[submodule "dpf-nanovg-widgets"]
+	path = dpf-nanovg-widgets
+	url = https://github.com/clearly-broken-software/dpf-nanovg-widgets.git
+[submodule "DPF"]
+	path = DPF
+	url = https://github.com/DISTRHO/DPF.git
