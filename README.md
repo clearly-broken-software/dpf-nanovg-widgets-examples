@@ -2,7 +2,7 @@
 
 Example plugin using the [dpf-nanovg-widgets](https://github.com/clearly-broken-software/dpf-nanovg-widgets/).  
 
-## building
+## building 🏗️
 
 ```bash
 git clone --recursive https://github.com/clearly-broken-software/dpf-nanovg-widgets-examples
@@ -13,4 +13,5 @@ make
 ```
 
 A jack binary, lv2 plugin and vst2 plugin are in `build/bin/`.  
-Fore more information about DPF visit [https://github.com/DISTRHO/DPF](https://github.com/DISTRHO/DPF).
+
+ℹ️ Fore more information about DPF visit [https://github.com/DISTRHO/DPF](https://github.com/DISTRHO/DPF).
